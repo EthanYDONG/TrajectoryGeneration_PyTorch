@@ -3,9 +3,7 @@ A PyTorch Implementation for Paper Efficient Reinforcement Learning Through Traj
 
 Paper:
 
-Efficient Reinforcement Learning Through Trajectory Generation 
-
-https://arxiv.org/abs/2211.17249
+Efficient Reinforcement Learning Through Trajectory Generation https://arxiv.org/abs/2211.17249
 
 Original TensorFlow Code:
 
